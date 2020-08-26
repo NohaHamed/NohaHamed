@@ -5,7 +5,8 @@ I also have a business degree.
 
 I’m currently learning React.
 
-![GitHub Logo](/images/logo.png)
+
+
 
 <!--
 **NohaHamed/NohaHamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
