@@ -4,7 +4,7 @@
 
 I love designing and developing responsive web pages using HTML, CSS and Javascript. I also have a business degree and worked in administration and research for 10 years. Welcome to my gh page! <br>
  
-<!--Resume:  [Noha Hamed Resume](https://resume.christinakopecky.com) (PDF download)..>
+<!--Resume:  [Noha Hamed Resume](https://resume.christinakopecky.com) (PDF download)-->
  
  
 🌱 *Currently Learning*: React and Node.js<br>
