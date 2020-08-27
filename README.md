@@ -1,8 +1,7 @@
-<img src="https://github.com/NohaHamed/NohaHamed/blob/master/da8d287d2cf4941ed9f77b4c9e60225f.jpg"/>
+<img src="https://github.com/NohaHamed/NohaHamed/blob/master/Breathe%20Facebook%20Cover.png"/>
  
-### Hi, I am Noha. 👋 I am a Frond-end web developer.<br>
-
-I love designing and developing responsive web pages using HTML, CSS and Javascript. I also have a business degree and worked in administration and research for 10 years. Welcome to my gh page! <br>
+### Hi there 👋, I am Noha Hamed. I am a Frond-end web developer. <br>
+I love designing and developing responsive web pages using HTML, CSS and Javascript. I also have a business degree and worked in administration and research for 10 years. Welcome to my gh-page! <br>
  
 <!--Resume:  [Noha Hamed Resume](https://resume.christinakopecky.com) (PDF download)-->
  
@@ -14,7 +13,7 @@ I love designing and developing responsive web pages using HTML, CSS and Javascr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/noha-hamed/)
  
 ⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  I love painting portraits and biking in nature.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I love painting portraits, biking and nature.<br>
 
  
  
