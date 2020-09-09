@@ -1,6 +1,6 @@
 <img src="https://github.com/NohaHamed/NohaHamed/blob/master/grow%20git%20by%20git.png"/>
  
-### Hi there 👋, I am Noha Hamed. I am a Frond-end web developer. <br>
+### Hi there 👋, I am Noha. I am a Frontend web developer. <br>
 I love designing and developing responsive web pages using HTML, CSS and Javascript. I also have a business degree and worked in administration and research for 10 years. Welcome to my gh-page! <br>
  
 <!--Resume:  [Noha Hamed Resume](https://resume.christinakopecky.com) (PDF download)-->
