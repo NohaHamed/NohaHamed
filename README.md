@@ -6,7 +6,7 @@ I love designing and developing responsive web pages using HTML, CSS and Javascr
 <!--Resume:  [Noha Hamed Resume](https://resume.christinakopecky.com) (PDF download)-->
  
  
-🌱 *Currently Learning*: React and Node.js<br>
+🌱 *Currently Learning*: MEAN stack<br>
 
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](noha_hamed@hotmail.com)
