@@ -1,7 +1,7 @@
 <img src="https://github.com/NohaHamed/NohaHamed/blob/master/grow%20git%20by%20git.png"/>
  
 ### Hi there 👋, I am Noha. I am a Frontend web developer. <br>
-I love designing and developing responsive web pages using HTML, CSS and Javascript. I also have a business degree and worked in administration and research for 10 years. Welcome to my gh-page! <br>
+I love designing and developing efficient, user-friendly  and responsive web pages. My coding learning journey took me through html, css, js, React.js, Express.js, SQL, Angular, MongoDb and Mongoose. I also have a business degree and worked in administration and research for 10 years. Welcome to my gh-page! <br>
  
 <!--Resume:  [Noha Hamed Resume](https://resume.christinakopecky.com) (PDF download)-->
  
